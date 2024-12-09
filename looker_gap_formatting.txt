@@ -1,0 +1,24 @@
+
+/* Ref_PA_Gap */
+.field-key-procure_iq_performance-ref_pa_gap {
+    background: linear-gradient(to right, #FF0000 0%, #FFA500 33%, #90EE90 67%, #008000 100%);
+    color: #000000;
+    font-weight: bold;
+    text-align: center;
+}
+
+/* Savings_Gap */
+.field-key-procure_iq_performance-savings_gap {
+    background: linear-gradient(to right, #FF0000 0%, #FFA500 33%, #90EE90 67%, #008000 100%);
+    color: #000000;
+    font-weight: bold;
+    text-align: center;
+}
+
+/* Conversion_Effects_Gap */
+.field-key-procure_iq_performance-conversion_effects_gap {
+    background: linear-gradient(to right, #FF0000 0%, #FFA500 33%, #90EE90 67%, #008000 100%);
+    color: #000000;
+    font-weight: bold;
+    text-align: center;
+}
