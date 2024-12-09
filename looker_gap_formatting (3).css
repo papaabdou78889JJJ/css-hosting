@@ -1,0 +1,24 @@
+
+/* Ref_PA_Gap */
+.field-key-ref-pa-gap {
+    background: linear-gradient(to right, #ff0000 0%, #ffffff 50%, #00ff00 100%);
+    color: #000000;
+    font-weight: bold;
+    text-align: center;
+}
+
+/* Savings_Gap */
+.field-key-savings-gap {
+    background: linear-gradient(to right, #ff0000 0%, #ffffff 50%, #00ff00 100%);
+    color: #000000;
+    font-weight: bold;
+    text-align: center;
+}
+
+/* Conversion_Effects_Gap */
+.field-key-conversion-effects-gap {
+    background: linear-gradient(to right, #ff0000 0%, #ffffff 50%, #00ff00 100%);
+    color: #000000;
+    font-weight: bold;
+    text-align: center;
+}
