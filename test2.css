@@ -47,13 +47,13 @@
     table-layout: fixed;
   }
   th.headerCell {
-    background-color: #1E2C5B;
+    background-color: red;
     color: white;
     padding: 5px;
     border-bottom: 1px solid #BDC3C7;
   }
   .headerCell.dimension {
-    background-color: #1E2C5B;
+    background-color: red;
     border-right: 1px solid #BDC3C7; 
     color: white;
  
@@ -61,13 +61,14 @@
   .headerCell.pivot {
     background-color: #1E2C5B;
     border-right: 1px solid #BDC3C7; 
-    color: white;
+    color: bleu;
  
   }
   .headerCell.measure {
     background-color: #1E2C5B;
     border-left: 1px solid #BDC3C7; 
-    color: white;
+    color: bleu;
+ 
  
   }
   .headerCell.measure.calculation {
@@ -102,6 +103,8 @@
     vertical-align: super;
     padding-left: 5px;
     border-bottom: 1px solid #BDC3C7; 
+background: linear-gradient(to right, #FF0000 0%, #FFA500 33%, #90EE90 67%, #008000 100%);
+    color: #000000;
   }
   .rowCell.merged {
     background-color: #ffffff !important;
@@ -114,9 +117,12 @@
   }
   .indexCell.transposed.dimension {
     background-color: #e4ecf3;
+ 
   }
   .indexCell.transposed.measure {
     background-color: #e4d0bd;
+background: linear-gradient(to right, #FF0000 0%, #FFA500 33%, #90EE90 67%, #008000 100%);
+    color: #000000;
   }
   .indexCell.transposed.calculation {
     background-color: #c9dfc5;
@@ -138,9 +144,13 @@
   }
   .numeric {
     text-align: right;
+background: linear-gradient(to right, #FF0000 0%, #FFA500 33%, #90EE90 67%, #008000 100%);
+    color: #000000;
   }
   .negative {
     color: red;
+background: linear-gradient(to right, #FF0000 0%, #FFA500 33%, #90EE90 67%, #008000 100%);
+    color: #000000;
   }
   .estimate {
     color: darkgray !important;
